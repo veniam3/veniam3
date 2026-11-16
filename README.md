@@ -21,7 +21,7 @@ besides that i play the dombra, draw and sculpt.
 **now:** nothing
 
 ---
-<div class="buttons-row">
+<div align="center">
 <a href="https://kernel.org/"><img src="https://88x31.nl/gifs/linux.gif" width="88" height="31"></a>
 <a href="https://archlinux.org/"><img src="https://88x31.nl/gifs/archlinux.gif" width="88" height="31"></a>
 <a href="https://www.vocaloid.com/"><img src="https://88x31.nl/gifs/vocaloid.gif" width="88" height="31"></a>
