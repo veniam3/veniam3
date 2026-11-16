@@ -149,9 +149,8 @@ img { max-width: 100%; height: auto; }
 
 .avatar {
   width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
+  height: auto;         
+  border-radius: var(--radius);  
   border: 4px solid white;
   box-shadow: 0 0 0 2px var(--pink);
 }
