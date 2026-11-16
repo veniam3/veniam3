@@ -18,7 +18,7 @@ besides that i play the dombra, draw and sculpt.
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,bash,linux,docker,kubernetes,git&theme=light" />
 </p>
 
-**now:** building my own OS in Rust
+**now:** nothing
 
 ---
 
